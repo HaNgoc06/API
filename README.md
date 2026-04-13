@@ -16,4 +16,6 @@
 3. Chạy file test: `test_api.py`.
 
 # Video Demo
-[Link Video YouTube/Drive của bạn ở đây]
+https://github.com/user-attachments/assets/16cb0e14-e5ee-40d5-99e0-f08166b672c1
+
+
