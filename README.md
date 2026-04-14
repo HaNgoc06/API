@@ -1,7 +1,7 @@
 # Thông tin sinh viên
 - *Họ và tên:* Nguyễn Thị Ngọc Hà
 - *MSSV:* 24120299
-- *Lớp:* 24CTT5
+- *Lớp:* 24CTT3
 
 # Giới thiệu mô hình
 - *Model:* [EnViT5-Translation](https://huggingface.co/VietAI/envit5-translation) của VietAI.
